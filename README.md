@@ -1,2 +1,2 @@
 # iGaming_Project_Test
-iGaming_Project
+iGaming_Project_Test
