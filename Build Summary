@@ -1,0 +1,54 @@
+Hi,
+I have reviewed the latest build for [Game Name] – Version [Build Number], received on [Date].
+After completing the smoke checks, I’m confirming that:
+•	The build has been successfully installed and launched.
+•	Game functionalities such as reel spins, autoplay, and UI navigation are functioning as expected.
+•	Key configurations like RTP, Game info, History, paytable, Autoplay and sound assets are properly integrated.
+•	No critical/blocker issues were observed during the smoke test.
+Based on the above validations, the build is being accepted for further QA testing.
+________________________________________
+
+Summary:
+•	Build Name: [Game Name]
+•	Build Version: [Build Number]
+•	Environment: [Web/Desktop/Mobile]
+•	Acceptance Status: ✅ Accepted for QA
+•	Tested By: Sangay
+•	Date: [Today’s Date]
+________________________________________
+In-Scope:
+•	
+Out of Scope:
+•	
+________________________________________
+Test Scenarios:
+•	To verify the functionality of Spin or turbo button.
+•	To verify the functionality of Auto Play button.
+•	To verify all the statement and artwork are correct and not misleading on Game Information page or Help Screen and compare with in-game.
+•	To verify all the feature or free games.
+Core Components:
+•	Spin Button functionality
+•	Autoplay
+•	History
+•	Symbol Pay verification
+•	Artwork & Animation
+•	Recovery/Disconnection
+Platform:
+•	Web: Chrome, Mozilla Firefox, Safari, Edge.
+•	Device: Android & iOS (Tab & iPad)
+•	Virtual Device: Browser Stack.
+________________________________________
+Please proceed with any pending documentation or next steps. Let me know if there are specific areas you'd like us to prioritize during QA.
+
+Best regards,
+Sangay
+QA Engineer
+________________________________________
+Format and requriement can be change according to the game type:
+1.	Crash Game.
+2.	Slot Game (Ways or Line games)
+3.  Progressive Link Jackpot/Non Progressive Jackpot.
+4.	Scratch Card game.
+5.	Instant Pay Game.
+
+
